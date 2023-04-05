@@ -12,7 +12,7 @@ Learn more python 3 the hard way. Commiting to 1 hour a day to get my vocational
 
 
 ## Cheat Sheet
-Here is a quick printable cheatsheet for the following commands:
+Sometimes I do some pair programming with others, so here is quick reminder of each command so we can all be in the same page. 
 
 ## cat 
 - command used to display the contents of a file 
